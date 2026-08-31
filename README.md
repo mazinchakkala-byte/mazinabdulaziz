@@ -13,13 +13,13 @@ currently focused on Edge AI for industrial predictive maintenance.
 
 **[Edge AI Predictive Maintenance](link)**
 Vibration-based fault detection on ESP32 using TinyML (Edge Impulse) — 
-[one line on the real-world use case / result]
+Flags equipment failure before it happens by catching abnormal vibration patterns in real time — the kind of system that could cut unplanned downtime on industrial machinery.
 
 **[Smart Intruder Detection System](link)**
 PIR + ultrasonic sensor fusion with MQTT for bidirectional alerts
 
 **[ESP32 ATM Prototype](link)**
-RFID + keypad + OLED interface — [one line on what it demonstrates]
+RFID + keypad + OLED interface — Simulates a secure banking terminal with RFID authentication, PIN entry, and real-time transaction feedback — demonstrating multi-peripheral state management on embedded hardware.
 
 ---
 
