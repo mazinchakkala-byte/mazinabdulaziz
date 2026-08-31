@@ -27,4 +27,4 @@ RFID + keypad + OLED interface — [one line on what it demonstrates]
 `C/C++` `ESP32/Arduino` `TinyML (Edge Impulse)` `MQTT` `FreeRTOS` `Python`
 
 ### Connect
-[LinkedIn]https://www.linkedin.com/in/mazin-abdul-243b6235a?utm_source=share_via&utm_content=profile&utm_medium=member_android · [email]
+[LinkedIn](https://www.linkedin.com/in/mazin-abdul-243b6235a) · [mazinchakkala@gmail.com](mailto:mazinchakkala@gmail.com)
