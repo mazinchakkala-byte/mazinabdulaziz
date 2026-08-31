@@ -24,7 +24,7 @@ RFID + keypad + OLED interface — Simulates a secure banking terminal with RFID
 ---
 
 ### Skills
-`C/C++` `ESP32/Arduino` `TinyML (Edge Impulse)` `MQTT` `FreeRTOS` `Python`
+`Embedded C/C++` `ESP32/Arduino` `TinyML (Edge Impulse)` `MQTT` `FreeRTOS` `Python`
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/mazin-abdul-243b6235a) · [mazinchakkala@gmail.com](mailto:mazinchakkala@gmail.com)
