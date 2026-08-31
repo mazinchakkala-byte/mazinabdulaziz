@@ -5,7 +5,7 @@ currently focused on Edge AI for industrial predictive maintenance.
 
 🔭 Currently building: [Edge AI Predictive Maintenance — TinyML on ESP32]
 🎯 Targeting: Embedded Systems / IoT internships (UAE)
-📍 Based in Sharjah, UAE
+📍 Delhi, India | UAE Resident (Sharjah)
 
 ---
 
