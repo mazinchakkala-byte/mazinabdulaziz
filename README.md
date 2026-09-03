@@ -15,7 +15,7 @@ currently focused on Edge AI for industrial predictive maintenance.
 Vibration-based fault detection on ESP32 using TinyML (Edge Impulse) — 
 Flags equipment failure before it happens by catching abnormal vibration patterns in real time — the kind of system that could cut unplanned downtime on industrial machinery.
 
-**[Smart Intruder Detection System](link)**
+**[Smart Intruder Detection System](https://github.com/mazinchakkala-byte/esp32-intruder-detection)**
 PIR + ultrasonic sensor fusion with MQTT for bidirectional alerts
 
 **[ESP32 ATM Prototype](link)**
