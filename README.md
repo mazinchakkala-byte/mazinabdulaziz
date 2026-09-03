@@ -11,7 +11,7 @@ currently focused on Edge AI for industrial predictive maintenance.
 
 ### Featured Projects
 
-**[Edge AI Predictive Maintenance](link)**
+**[Edge AI Predictive Maintenance](https://github.com/mazinchakkala-byte/edge-ai-predictive-maintenance)**
 Vibration-based fault detection on ESP32 using TinyML (Edge Impulse) — 
 Flags equipment failure before it happens by catching abnormal vibration patterns in real time — the kind of system that could cut unplanned downtime on industrial machinery.
 
